@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Projeto.Entities/1.0.0": {
+        "runtime": {
+          "Projeto.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

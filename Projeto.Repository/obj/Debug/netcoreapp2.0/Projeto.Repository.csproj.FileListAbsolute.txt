@@ -1,0 +1,13 @@
+C:\Projetos\.NET\Coti\APIREST\webdeveloper\Projeto.Repository\bin\Debug\netcoreapp2.0\Projeto.Repository.deps.json
+C:\Projetos\.NET\Coti\APIREST\webdeveloper\Projeto.Repository\bin\Debug\netcoreapp2.0\Projeto.Repository.dll
+C:\Projetos\.NET\Coti\APIREST\webdeveloper\Projeto.Repository\bin\Debug\netcoreapp2.0\Projeto.Repository.pdb
+C:\Projetos\.NET\Coti\APIREST\webdeveloper\Projeto.Repository\bin\Debug\netcoreapp2.0\Projeto.Entities.dll
+C:\Projetos\.NET\Coti\APIREST\webdeveloper\Projeto.Repository\bin\Debug\netcoreapp2.0\Projeto.Entities.pdb
+C:\Projetos\.NET\Coti\APIREST\webdeveloper\Projeto.Repository\obj\Debug\netcoreapp2.0\Projeto.Repository.csproj.AssemblyReference.cache
+C:\Projetos\.NET\Coti\APIREST\webdeveloper\Projeto.Repository\obj\Debug\netcoreapp2.0\Projeto.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\.NET\Coti\APIREST\webdeveloper\Projeto.Repository\obj\Debug\netcoreapp2.0\Projeto.Repository.AssemblyInfoInputs.cache
+C:\Projetos\.NET\Coti\APIREST\webdeveloper\Projeto.Repository\obj\Debug\netcoreapp2.0\Projeto.Repository.AssemblyInfo.cs
+C:\Projetos\.NET\Coti\APIREST\webdeveloper\Projeto.Repository\obj\Debug\netcoreapp2.0\Projeto.Repository.csproj.CoreCompileInputs.cache
+C:\Projetos\.NET\Coti\APIREST\webdeveloper\Projeto.Repository\obj\Debug\netcoreapp2.0\Projeto.Repository.csproj.CopyComplete
+C:\Projetos\.NET\Coti\APIREST\webdeveloper\Projeto.Repository\obj\Debug\netcoreapp2.0\Projeto.Repository.dll
+C:\Projetos\.NET\Coti\APIREST\webdeveloper\Projeto.Repository\obj\Debug\netcoreapp2.0\Projeto.Repository.pdb
